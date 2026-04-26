@@ -1,0 +1,18 @@
+Create an agency-facing project snapshot from the transcript and extraction.
+
+Use exactly these sections:
+
+# Agency Project Snapshot
+## Public Problem
+## Why It Matters
+## What Is Known
+## What Is Still Undefined
+## Possible Deliverables
+## Decisions This Could Support
+
+Rules:
+- Write for an agency or public-sector partner.
+- Focus on decisions, practical value, and what needs clarification.
+- Do not invent facts, datasets, deadlines, or deliverables.
+- If something is missing, write "not specified" or "unclear from transcript."
+- Keep it concise and useful for a follow-up meeting.

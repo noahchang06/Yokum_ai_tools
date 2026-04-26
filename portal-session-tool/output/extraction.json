@@ -1,0 +1,79 @@
+{
+  "project_title": "DNCR economic impact assessment",
+  "agency_or_partner": "North Carolina Department of Natural and Cultural Resources (DNCR), Office of the Secretary",
+  "public_problem": "DNCR manages many natural and cultural sites and programs across North Carolina but does not have a comprehensive assessment of their economic impact on the state and on local communities.",
+  "why_it_matters": "DNCR wants evidence to support continued investment, strategic budget requests to the General Assembly, fundraising, marketing decisions, and decisions about how its sites and programs contribute to local economies, especially rural communities.",
+  "target_population": "North Carolina communities served by DNCR sites and programs; rural communities are specifically mentioned as important. Specific visitor demographics are not yet collected across the board.",
+  "available_data": [
+    "Monthly visitation data reported by DNCR sites",
+    "Operational budgets for sites",
+    "Latitude and longitude for site locations",
+    "Grant awards by program and county through a Power BI dashboard",
+    "VisitNC county tourism data that can be linked to site locations",
+    "Existing economic impact reports for aquariums, the zoo, state parks, and related arts economy examples",
+    "Potential procurement data including purchase amount, vendor, and vendor zip code, but availability is not fully confirmed",
+    "Hub spend data for historically underutilized businesses",
+    "Planned visitor survey data from Memorial Day to Labor Day"
+  ],
+  "expected_outputs": [
+    "A statewide top-line assessment of DNCR's economic impact",
+    "More detailed individual reports for DNCR sites",
+    "Measures such as economic output, jobs supported, visitor spending, and local and state tax revenue",
+    "Possibly analysis of programs and grant programs, but this is described as a nice-to-have rather than a must-have",
+    "Feedback on survey design and data collection approach before summer deployment"
+  ],
+  "timeline": [
+    "Information session held March 31, 2026",
+    "DNCR wants survey design decisions relatively quickly",
+    "Visitor survey planned from Memorial Day to Labor Day",
+    "Specific final project deadline unclear from transcript"
+  ],
+  "stakeholders": [
+    "DNCR Office of the Secretary",
+    "Annalynne Baker, policy analyst",
+    "Bailey Butler, policy director",
+    "David Yokum, Office of State Budget and Management",
+    "Researchers and potential project partners",
+    "DNCR divisions including state parks, aquariums, museums, historic sites, the zoo, libraries, arts-related programs, and grant programs",
+    "General Assembly and other budget or funding decision makers",
+    "Local communities affected by DNCR sites and programs"
+  ],
+  "student_entry_points": [
+    "Clean and organize visitation, site, grant, or survey data",
+    "Compare data collection methods across sites",
+    "Link site location data to county tourism or demographic data",
+    "Help design or test visitor survey questions",
+    "Create exploratory charts, maps, or dashboard mockups",
+    "Review existing economic impact reports and summarize reusable methods",
+    "Document uncertainty, missing fields, and data quality issues"
+  ],
+  "researcher_opportunities": [
+    "Design an economic impact methodology suitable for DNCR's varied sites and programs",
+    "Estimate statewide and local economic impact of DNCR sites",
+    "Advise on visitor survey design, sampling, timing, and collection tools",
+    "Assess how procurement and vendor geography affect in-state economic impact",
+    "Determine whether program and grant impacts can be estimated in addition to physical site impacts",
+    "Evaluate feasibility risks caused by inconsistent visitation methods and missing demographic data"
+  ],
+  "unclear_or_missing": [
+    "Final project deadline is unclear from transcript",
+    "The exact project team and commitment model are unclear from transcript",
+    "Whether procurement data includes supplier zip code for all relevant purchases is not fully confirmed",
+    "The complete visitor survey instrument is not included in the transcript",
+    "How DNCR wants to prioritize sites versus programs is partly unresolved",
+    "Whether all individual site reports are expected in the first phase is unclear from transcript",
+    "The preferred economic impact model or software is not specified",
+    "Data access rules, privacy constraints, and data formats are not specified"
+  ],
+  "important_quotes_or_evidence": [
+    "DNCR has a question about how the economic impact of their different sites and programs can be estimated.",
+    "DNCR has over 100 sites across North Carolina.",
+    "DNCR sites are described as economic anchors for many North Carolina communities, particularly rural communities.",
+    "They have never assessed, to their knowledge, a comprehensive look at the economic impact for these places in the state.",
+    "The minimum viable product includes a larger top-line assessment and more detailed individual reports.",
+    "The must-have is sites; programs are described as more of a nice-to-have.",
+    "DNCR has monthly visitation data, operational budgets, site latitude and longitude, grant data by program and county, and VisitNC county tourism data.",
+    "DNCR does not currently collect demographic information across the board.",
+    "DNCR plans to deploy a survey from Memorial Day to Labor Day."
+  ]
+}

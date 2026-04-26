@@ -1,0 +1,18 @@
+Create a researcher-facing brief from the transcript and extraction.
+
+Use exactly these sections:
+
+# Researcher Brief
+## Research Opportunity
+## Possible Research Questions
+## Data Needs
+## Possible Methods
+## Feasibility Risks
+## Questions Before Committing
+
+Rules:
+- Write for university researchers deciding whether the project is feasible and interesting.
+- Identify research opportunities without overstating what the transcript supports.
+- Separate available data from data that still needs to be requested.
+- Do not invent methods that require unavailable data unless clearly labeled as conditional.
+- If something is missing, write "not specified" or "unclear from transcript."

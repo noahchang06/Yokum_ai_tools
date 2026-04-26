@@ -1,0 +1,27 @@
+Extract structured project notes from the transcript.
+
+Return only valid JSON with exactly these keys:
+
+{
+  "project_title": "",
+  "agency_or_partner": "",
+  "public_problem": "",
+  "why_it_matters": "",
+  "target_population": "",
+  "available_data": [],
+  "expected_outputs": [],
+  "timeline": [],
+  "stakeholders": [],
+  "student_entry_points": [],
+  "researcher_opportunities": [],
+  "unclear_or_missing": [],
+  "important_quotes_or_evidence": []
+}
+
+Rules:
+- Do not summarize generically.
+- Do not invent details.
+- If a field is missing, write "not specified" or "unclear from transcript."
+- Keep array items concrete and grounded in the transcript.
+- Use "important_quotes_or_evidence" only for short excerpts or clearly traceable evidence from the transcript.
+- Capture uncertainty explicitly in "unclear_or_missing."

@@ -1,0 +1,18 @@
+Create a UNC/SDSS student action brief from the transcript and extraction.
+
+Use exactly these sections:
+
+# UNC/SDSS Student Action Brief
+## What This Project Is About
+## Why It Matters for North Carolina
+## Useful Skills
+## Beginner Entry Points
+## Advanced Entry Points
+## Possible Student Contributions
+
+Rules:
+- Write for students looking for concrete ways to help.
+- Include beginner and advanced entry points only when supported by the transcript or clearly derived from stated project needs.
+- Do not invent agency needs, data access, or deliverables.
+- If something is missing, write "not specified" or "unclear from transcript."
+- Keep the tone practical, not promotional.

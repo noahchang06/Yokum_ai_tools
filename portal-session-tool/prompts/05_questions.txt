@@ -1,0 +1,16 @@
+Create clarifying questions from the transcript and extraction.
+
+Use exactly these sections:
+
+# Clarifying Questions
+## For the Agency
+## For Researchers
+## For Students
+## For Implementation
+
+Rules:
+- Ask questions that would make the project more actionable.
+- Prioritize missing details about data, public problem, timeline, stakeholders, deliverables, feasibility, and student roles.
+- Do not ask questions already answered clearly in the transcript.
+- Do not invent assumptions inside the questions.
+- Keep questions concrete enough for a follow-up call.
