@@ -8,14 +8,14 @@ https://projectportal.nc.gov/project-assets/dncr-economic-impact/dncr-economic-i
 
 The session is about DNCR wanting to estimate the economic impact of its sites and programs.
 
-## Workflow
+## What I did
 
 1. Put transcript text in `input/transcript.txt`.
 2. Keep reusable prompts in `prompts/`.
 3. Run `python3 run.py`.
 4. Review files in `output/`.
 
-## Output Choices
+## Output
 
 - `extraction.json`: structured facts and missing information
 - `agency_brief.md`: agency-facing summary
@@ -24,7 +24,7 @@ The session is about DNCR wanting to estimate the economic impact of its sites a
 - `clarifying_questions.md`: follow-up questions
 - `evaluation_notes.md`: what worked and what did not
 
-## Blocker
+## Issue
 
 I tried the OpenAI API, but it returned `insufficient_quota`. I used WhisperWeb for transcription:
 
@@ -32,7 +32,7 @@ https://whisperweb.dev
 
 WhisperWeb's free limit was shorter than the recording, so the current transcript is only what I was able to get without paid transcription. A full run would need paid transcription, local Whisper, or working OpenAI credits.
 
-## With Credits
+## OpenAI Credits - Possible solution
 
 With API credits, I would transcribe the full recording, save it as `input/transcript.txt`, set:
 
@@ -46,7 +46,7 @@ Then run:
 python3 run.py
 ```
 
-## Evaluation
+## Reflection 
 
 - Did the output match the transcript?
 - Did it say `not specified` or `unclear from transcript` when needed?

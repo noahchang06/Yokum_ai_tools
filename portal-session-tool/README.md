@@ -6,7 +6,7 @@ Source used for this run:
 
 https://projectportal.nc.gov/project-assets/dncr-economic-impact/dncr-economic-impact-info-session-recording-2026-03-31.mp4
 
-## What It Does
+## Workflow
 
 The tool reads `input/transcript.txt` and writes:
 
@@ -39,20 +39,15 @@ To use the OpenAI API:
 export OPENAI_API_KEY="sk-..."
 python3 run.py
 ```
-
-## What Happened In This Test
-
-I tried to use the OpenAI API, but the account returned `insufficient_quota`. I used WhisperWeb to transcribe the DNCR recording instead:
+I tried to use the OpenAI API, but the account returned `insufficient_quota`, and with a short test I figured to at least project the idea that I want to pursue. I used WhisperWeb to transcribe the DNCR recording instead:
 
 https://whisperweb.dev
 
 The free transcription had a time limit, so a full run would need paid transcription, local Whisper, or OpenAI credits.
 
-For this submission, I pasted the available transcript into `input/transcript.txt` and produced the output files from that transcript.
+For this submission, I pasted the available (20min) transcript into `input/transcript.txt` and produced the output files from that transcript.
 
-## Evaluate
-
-Check whether the outputs:
+Check:
 
 - preserve uncertainty
 - avoid invented deadlines, datasets, or methods
